@@ -1,11 +1,10 @@
 # LeetCode
 
-Repository houses solved Leetcode problems.
+Repository houses all my solved Leetcode problems.
 
 ## ZTM FAANG Course Problems
 
-ZTM's FAANG course has 30 select problems from Leetcode. As I solve them
-I will update this checklist.
+While this repository includes solutions to any leetcode problem, I plan to specifically review 30 select problems from ZTM's FAANG course. As I solve them I will update this checklist.
 
 | Question No. | Leet Code Problem No. | Difficulty | Code File                         |
 | ------------ | --------------------- | -----------|---------------------------------- |
