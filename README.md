@@ -4,6 +4,9 @@ Repository houses solved Leetcode problems.
 
 ## ZTM FAANG Course Problems
 
+ZTM's FAANG course has 30 select problems from Leetcode. As I solve them
+I will update this checklist.
+
 | Question No. | Leet Code Problem No. | Code File                     |
 | ------------ | --------------------- | ----------------------------- |
 | 1            | 1                     | p1_two_sum.py                 |
