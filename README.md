@@ -18,7 +18,7 @@ I will update this checklist.
 | 7            | 92                    | Medium     | |
 | 8            | 430                   | Medium     | |
 | 9            | 142                   | Medium     | |
-| 10           | 20                    | Easy       | |p20_valid_parentheses.py       |
+| 10           | 20                    | Easy       | p20_valid_parentheses.py          |
 | 11           | 1249                  | Medium     | |
 | 12           | 232                   | Easy       | |
 | 13           | 215                   | Medium     | |
