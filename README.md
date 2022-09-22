@@ -21,7 +21,7 @@ While this repository includes solutions to any leetcode problem, I plan to spec
 | 11           | 1249                  | Medium     | |
 | 12           | 232                   | Easy       | |
 | 13           | 215                   | Medium     | |
-| 14           | 34                    | Medium     | |
+| 14           | 34                    | Medium     | p34_first_and_last_position_of_element_in_sorted_array.py |
 | 15           | 104                   | Easy       | |
 | 16           | 102                   | Medium     | |
 | 17           | 199                   | Medium     | |
