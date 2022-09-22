@@ -11,7 +11,7 @@ While this repository includes solutions to any leetcode problem, I plan to spec
 | 1            | 1                     | Easy       | p1_two_sum.py                     |
 | 2            | 11                    | Medium     | p11_container_with_most_water.py  |
 | 3            | 42                    | Hard       | |
-| 4            | 844                   | Easy       | |
+| 4            | 844                   | Easy       | p844_backspace_string_compare.py  |
 | 5            | 3                     | Medium     | |
 | 6            | 125                   | Easy       | |
 | 7            | 92                    | Medium     | |
