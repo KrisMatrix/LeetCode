@@ -22,7 +22,7 @@ While this repository includes solutions to any leetcode problem, I plan to spec
 | 12           | 232                   | Easy       | p232_implement_queue_using_stacks.py |
 | 13           | 215                   | Medium     | |
 | 14           | 34                    | Medium     | p34_first_and_last_position_of_element_in_sorted_array.py |
-| 15           | 104                   | Easy       | |
+| 15           | 104                   | Easy       | p104_max_depth_of_binary_tree.py |
 | 16           | 102                   | Medium     | |
 | 17           | 199                   | Medium     | |
 | 18           | 222                   | Medium     | |
