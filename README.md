@@ -19,7 +19,7 @@ While this repository includes solutions to any leetcode problem, I plan to spec
 | 9            | 142                   | Medium     | |
 | 10           | 20                    | Easy       | p20_valid_parentheses.py          |
 | 11           | 1249                  | Medium     | |
-| 12           | 232                   | Easy       | |
+| 12           | 232                   | Easy       | p232_implement_queue_using_stacks.py |
 | 13           | 215                   | Medium     | |
 | 14           | 34                    | Medium     | p34_first_and_last_position_of_element_in_sorted_array.py |
 | 15           | 104                   | Easy       | |
