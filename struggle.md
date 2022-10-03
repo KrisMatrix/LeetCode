@@ -1,4 +1,4 @@
-# Leetcode Problems I struggled with
+# Leetcode Problems that I struggled with
 
 These are problem that I couldn't solve entirely on my own
 and looked up the discussion or videos for tips on how to 
@@ -7,5 +7,6 @@ in the future.
 
 
 62. Unique Paths
+98. Validate Binary Search Tree
 142. Linked List Cycle II
 200. Number of Islands
