@@ -43,4 +43,4 @@
 |   54  | Sprial Matrix             | Open     |
 | 1706  | Where will the ball fall  | Open     |
 |   14  | Longest Common Prefix     | Complete |
-|   43  | Multiply Strings          | Open     |
+|   43  | Multiply Strings          | Complete |
