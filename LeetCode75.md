@@ -44,3 +44,5 @@
 | 1706  | Where will the ball fall  | Open     |
 |   14  | Longest Common Prefix     | Complete |
 |   43  | Multiply Strings          | Complete |
+|   19  | Remove nth node from end of linked list | Complete |
+|  234  | Palindrome Linked List    | Complete | 
