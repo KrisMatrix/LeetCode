@@ -45,4 +45,42 @@
 |   14  | Longest Common Prefix     | Complete |
 |   43  | Multiply Strings          | Complete |
 |   19  | Remove nth node from end of linked list | Complete |
-|  234  | Palindrome Linked List    | Complete | 
+|  234  | Palindrome Linked List    | Complete |
+|  328  | Odd Even Linked List      | Complete |
+|  148  | Sort List                 | Open     |
+| 2131  | Longest Palindrome by Concatenating Two Letter Words | Open |
+|  621  | Task Scheduler            | Open     |
+|  226  | Invert Binary Tree        | Open     |
+|  110  | Balanced Binary Tree      | Open     |
+|  543  | Diameter of Binary Tree   | Open     |
+|  437  | Path Sum III              | Open     |
+|   74  | Search a 2D Matrix        | Open     |
+|   33  | Search in Rotated Sorted Array | Open |
+|  108  | Converted Sorted Array to Binary Tree | Open |
+|  230  | Kth Smallest Element in a BST | Open |
+|  173  | Binary Search Tree Iterator | Open   |
+|  994  | Rotting Oranges           | Open     |
+|  417  | Pacific Atlantic Water Flow | Open   |
+|  210  | Course Schedule II        | Open     |
+|  815  | Bus Routes                | Open     |
+|  198  | House Robber              | Open     |
+|  322  | Coin Change               | Open     |
+|  416  | Partition Equal Subset Sum| Open     |
+|  152  | Maximum Product Subarray  | Open     |
+|    3  | Longest Substring With Repeating Characters | Open |
+|   16  | 3Sum Closet               | Open     |
+|   76  | Minimum Window Substring  | Open     |
+|  100  | Same Tree                 | Open     |
+|  101  | Symmetric Tree            | Open     |
+|  199  | Binary Tree Right Side View | Open   |
+|  232  | Implement Queue using Stack | Open   |
+|  155  | Min Stack                   | Open   |
+|  208  | Implement Trie (Prefix Tree)| Open   |
+|   57  | Insert Interval           | Open     |
+|   56  | Merge Intervals           | Open     |
+|  735  | Asteroid Collision        | Open     |
+|  227  | Basic Calculator II       | Open     |
+|  547  | Number of Provinces       | Open     |
+|  947  | Most Stones Removed with Same Row or Column | Open |
+|   39  | Combination Sum           | Open     |
+|   46  | Permutations              | Open     |
