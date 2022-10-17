@@ -51,7 +51,7 @@
 | 2131  | Longest Palindrome by Concatenating Two Letter Words | Open |
 |  621  | Task Scheduler            | Open     |
 |  226  | Invert Binary Tree        | Open     |
-|  110  | Balanced Binary Tree      | Open     |
+|  110  | Balanced Binary Tree      | Complete |
 |  543  | Diameter of Binary Tree   | Open     |
 |  437  | Path Sum III              | Open     |
 |   74  | Search a 2D Matrix        | Open     |
