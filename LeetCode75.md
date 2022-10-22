@@ -57,7 +57,7 @@
 |   74  | Search a 2D Matrix        | Open     |
 |   33  | Search in Rotated Sorted Array | Open |
 |  108  | Converted Sorted Array to Binary Tree | Open |
-|  230  | Kth Smallest Element in a BST | Open |
+|  230  | Kth Smallest Element in a BST | Complete |
 |  173  | Binary Search Tree Iterator | Open   |
 |  994  | Rotting Oranges           | Open     |
 |  417  | Pacific Atlantic Water Flow | Open   |
