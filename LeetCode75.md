@@ -52,7 +52,7 @@
 |  621  | Task Scheduler            | Open     |
 |  226  | Invert Binary Tree        | Open     |
 |  110  | Balanced Binary Tree      | Complete |
-|  543  | Diameter of Binary Tree   | Open     |
+|  543  | Diameter of Binary Tree   | Complete |
 |  437  | Path Sum III              | Open     |
 |   74  | Search a 2D Matrix        | Open     |
 |   33  | Search in Rotated Sorted Array | Open |
