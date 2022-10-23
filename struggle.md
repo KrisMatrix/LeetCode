@@ -10,3 +10,5 @@ in the future.
 98. Validate Binary Search Tree
 142. Linked List Cycle II
 200. Number of Islands
+   . Diameter of Binary Tree
+   . 
