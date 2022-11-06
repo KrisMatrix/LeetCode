@@ -5,22 +5,21 @@
 #         self.next = next
 class Solution:
     def removeNthFromEnd(self, head: Optional[ListNode], n: int) -> Optional[ListNode]:
-        # Well we are told that there is at least one node
-        # We are also guaranteed that n will be a number between 1 and size of ll.
-        array = []                      #O(n) space 
-        node = head 
-        while (node != None):           # O(n) time and single pass
-            array.append(node)
-            node = node.next
-        if n > len(array):
-            return None
-        if (len(array) - n-1) < 0:
-            head = array[-n].next
-            return head
-        
-        prev = array[-n-1]
-        if array[-n].next == None:
-            prev.next = None
-        else:
-            prev.next = array[-n + 1]
+        array = []
+        ptr = head
+        while ptr != None:
+            array.append(ptr)
+            ptr = ptr.next
+        if n == len(array):
+            if len(array) > 1:
+                head = array[1]
+                return head
+            else:
+                return None
+        array[len(array)-n-1].next = array[-n].next
         return head
+
+        # For reference:
+        #prev_node = array[len(array)-n-1]
+        #next_node = array[-n].next
+        #prev_node.next = next_node
